@@ -5,7 +5,7 @@ const questions = [
     error: "Hmm, maybe you're looking at the wrong tree? There must be one printed somewhere..."
   },
   {
-    text: "How many candies are on the polls?",
+    text: "How many candies are on the poles?",
     answer: ["twenty one", "21", "twenty-one"],
     error: "Look for overlaps between them!"
   },
